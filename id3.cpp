@@ -130,6 +130,7 @@ int main()
 	double perform_id3_secs = double(t4 - t3) / CLOCKS_PER_SEC;
 	cout << "\n" << "Training completed in " << perform_id3_secs << " secs." << "\n" << "\n";
 
+	//For now storing and retieving the tree from memory has not been implemented
 	/*
 	//store decision tree to trainedtree.txt
 	trainedfile.open("trainedtree.txt", ios::out);
