@@ -22,4 +22,3 @@ Additional Notes
 ------
 This project was made only for understanding purpose, as a part of my course assignment, 
 so no performance or memory improvements were made whatsoever.  
-For any additional details refer to Assignment Details.
