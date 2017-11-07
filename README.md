@@ -1,6 +1,6 @@
 ## Implementing the id3 algorithm in C++
 
-This is a naive implementation of the id3 (decision tree) algorithm in C++.  
+This is a naive implementation of the [id3](https://en.wikipedia.org/wiki/ID3_algorithm) (decision tree) algorithm in C++.  
 This version can handle continous and missing value attributes.   
 The repository contains only the necessary cpp and header files required for successful compilation.  
 
