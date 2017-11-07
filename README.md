@@ -14,7 +14,7 @@ http://archive.ics.uci.edu/ml/datasets/Adult dataset was used for training and t
 [datafiles/data.txt](https://github.com/sanchit199617/id3/blob/master/datafiles/data.txt) contains the training instances.  
 [testfiles/test.txt](https://github.com/sanchit199617/id3/blob/master/testfiles/test.txt) contains the testing instances. These instances were used calculate the algorithm's accuracy.  
 
-The code was written specifically for this dataset and will require significant changes if ran on some other dataset. 
+The code was written specifically for this dataset and will require significant changes before running on some other dataset. 
 
 Built With
 ------
